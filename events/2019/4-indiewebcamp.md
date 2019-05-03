@@ -1,5 +1,5 @@
 ---
-name: IndieWebCamp
+name: IndieWeb<wbr>Camp
 date: 2019-09-28
 actions:
   -
