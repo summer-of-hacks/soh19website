@@ -19,7 +19,8 @@ var paths = {
   assets: [
     'src/CNAME',
     'src/icons/*',
-    'src/images/*'
+    'src/images/*',
+    'src/slides/*'
   ],
   js: [
     'src/bower/webfontloader/webfontloader.js',
