@@ -24,3 +24,5 @@ You'll probably want to bring a laptop _and its charger_. You're also welcome to
 bring any other tools and components you have. We recommend marking them up
 somehow—using washi tape, stickers, etc.—so it's easy to check you're taking the
 right things home.
+
+Here are the [slides](hardware_hackday_slides.pdf) for the event.
