@@ -17,3 +17,5 @@ This event is for anyone who wants to play around with language and programming.
 Some things that you might find people working on include figuring out if a twitter bot is happy or sad, creating rap poetry as a mashup of Shakespeare and Eminem, or even creating web-based materials to help others learn languages.
 
 All you need is your lovely self and a laptop (with its charger).
+
+Here are the [slides](language_hackday_slides.pdf) for the event.
