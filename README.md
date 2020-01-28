@@ -1,4 +1,4 @@
-# The [summerofhacks.io](http://summerofhacks.io/) website
+# The [summerofhacks](https://summerofhacks.netlify.com/) website
 
 Summer of Hacks is an event series organised for the Summer of 2019 in Oxford, UK.
 
